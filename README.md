@@ -6,7 +6,7 @@ LiteLearn helps students on slow or costly internet watch video lessons. A teach
 
 
 - **Live demo:** [LiteLearn](https://lite-learn.vercel.app/)
-- **Notion documentation:** [Notion](https://app.notion.com/p/LiteLearn-Hacktober-HackDays-Notion-Documentation-Draft-4036fd4c127d80bfaa8aecf5d446a2ff)
+- **Notion documentation:** [Notion](https://app.notion.com/p/LiteLearn-Hacktober-HackDays-Notion-Documentation-Draft-4036fd4c127d80bfaa8aecf5d446a2ff?source=copy_link)
 
 
 ---
