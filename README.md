@@ -5,9 +5,8 @@
 LiteLearn helps students on slow or costly internet watch video lessons. A teacher uploads one lecture, and LiteLearn creates lighter versions, an audio-only track and sharp board photos, and shows the file size of each option before the student chooses.
 
 
-- **Live demo:** [Vercel link]
-- **Demo video:** [link]
-- **Notion documentation:** [link]
+- **Live demo:** [LiteLearn](https://lite-learn.vercel.app/)
+- **Notion documentation:** [Notion](https://app.notion.com/p/LiteLearn-Hacktober-HackDays-Notion-Documentation-Draft-4036fd4c127d80bfaa8aecf5d446a2ff)
 
 
 ---
